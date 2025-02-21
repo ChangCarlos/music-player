@@ -19,7 +19,7 @@ This is a music app project, developed with the freeCodeCamp learning trail, whe
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://changcarlos.github.io/music-player/](https://changcarlos.github.io/music-player/)
 
 ## My process
 
